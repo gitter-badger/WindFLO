@@ -1,6 +1,8 @@
 WindFLO
 =======
 
+[![Join the chat at https://gitter.im/d9w/WindFLO](https://badges.gitter.im/d9w/WindFLO.svg)](https://gitter.im/d9w/WindFLO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 APIs for the Wind Farm Layout Optimization competition
 
 ## Intent
